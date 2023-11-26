@@ -17,8 +17,8 @@ Compile the program using a C compiler. For example:
 ```bash
 gcc *.c
 ./a.out -e beautiful.bmp secret.txt stego.bmp  --> For Encoding
-./a.out -d stego.bmp decode.txt  --> For Decoding ```
+./a.out -d stego.bmp decode.txt  --> For Decoding
 
-**## Contributing**
+## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
