@@ -19,6 +19,9 @@ gcc *.c
 ./a.out -e beautiful.bmp secret.txt stego.bmp  --> For Encoding
 ./a.out -d stego.bmp decode.txt  --> For Decoding
 
-## Contributing
-
+# Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests.
+
+# Feedback
+Any suggestion and feedback is welcome. You can message me on Instagram
+- https://www.instagram.com/itz_me_sooriii?r=nametag
