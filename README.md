@@ -17,3 +17,8 @@ Compile the program using a C compiler. For example:
 ```bash
 gcc lsb_steganography.c -o lsb_steganography
 
+## Example
+
+```bash
+./lsb_steganography embed input.png output.png secret.txt
+./lsb_steganography extract output.png extracted.txt
