@@ -15,6 +15,6 @@ This C program implements a basic LSB (Least Significant Bit) image steganograph
 Compile the program using a C compiler. For example:
 
 ```bash
-gcc lsb_steganography.c -o lsb_steganography
-./lsb_steganography -e beautiful.bmp secret.txt stego.bmp
-./lsb_steganography extract stego.bmp decode.txt
+gcc *.c
+./a.out -e beautiful.bmp secret.txt stego.bmp
+./a.out -d stego.bmp decode.txt
